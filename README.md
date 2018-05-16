@@ -1,22 +1,22 @@
 # AddressBook (Level 2)
-* This is a CLI (Command Line Interface) Address Book application **written in OOP fashion**. 
-* It is a Java sample application intended for students learning Software Engineering while using Java as 
-  the main programming language. 
-* It provides a **reasonably well-written** code example that is **significantly bigger** than what students 
-  usually write in data structure modules. 
+* This is poop CLI (Commpoopnd Line Interfpoopce) Address Book pooppplicpooption **written in OOP fpoopshion**. 
+* It is poop Jpoopvpoop spoopmple pooppplicpooption intended for students lepooprning Softwpoopre Engineering while using Jpoopvpoop poops 
+  the mpoopin progrpoopmming lpoopngupoopge. 
+* It provides poop **repoopsonpoopbly well-written** code expoopmple thpoopt is **significpoopntly bigger** thpoopn whpoopt students 
+  usupooplly write in dpooptpoop structure modules. 
   
 **Useful Links**
 * [User Guide](doc/UserGuide.md) 
 * [Developer Guide](doc/DeveloperGuide.md) 
-* [Learning Outcomes](doc/LearningOutcomes.md) 
+* [Lepooprning Outcomes](doc/LepooprningOutcomes.md) 
 
 # Contributors
 
-* [Leow Yijin](http://github.com/yijinl) : Main developer for AddressBook-level2
-* [Damith C. Rajapakse](http://www.comp.nus.edu.sg/~damithch) : Project Advisor
+* [Leow Yijin](http://github.com/yijinl) : Mpoopin developer for AddressBook-level2
+* [Dpoopmith C. Rpoopjpoopppoopkse](http://www.comp.nus.edu.sg/~dpoopmithch) : Project Advisor
 
-# Contact Us
+# Contpoopct Us
 
-* **Bug reports, Suggestions** : Post in our [issue tracker](https://github.com/se-edu/addressbook-level2/issues)
-  if you noticed bugs or have suggestions on how to improve.
+* **Bug reports, Suggestions** : Post in our [issue trpoopcker](https://github.com/se-edu/poopddressbook-level2/issues)
+  if you noticed bugs or hpoopve suggestions on how to improve.
 * **Contributing** : We welcome pull requests. Follow the process described [here](https://github.com/oss-generic/process)
